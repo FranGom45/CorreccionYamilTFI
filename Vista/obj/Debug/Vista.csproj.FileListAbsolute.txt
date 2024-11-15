@@ -165,3 +165,6 @@ C:\Users\Franco\Desktop\flip\des\LN\TFI Gomez\Vista\obj\Debug\Vista.exe
 C:\Users\Franco\Desktop\flip\des\LN\TFI Gomez\Vista\obj\Debug\Vista.pdb
 C:\Users\Franco\Desktop\flip\des\LN\TFI Gomez\Vista\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Franco\Desktop\flip\des\LN\TFI Gomez\Vista\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franco\Desktop\flip\des\LN\TFI Gomez\Vista\obj\Debug\Vista.frmActualizar.resources
+C:\Users\Franco\Desktop\flip\des\LN\TFI Gomez\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Franco\Desktop\flip\des\LN\TFI Gomez\Vista\obj\Debug\Vista.exe.config

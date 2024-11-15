@@ -12,14 +12,14 @@ namespace Negocio
         {
         }
 
-        public ApiProducts (int id, string title, string description, string category, decimal price)
+        public ApiProducts(int id, string title, string description, string category, decimal price)
         {
             Id = id;
             Title = title;
             Description = description;
             Category = category;
             Price = price;
-            
+
         }
 
         public int Id { get; set; }
@@ -32,24 +32,5 @@ namespace Negocio
 
         public decimal Price { get; set; }
 
-
-
-        //?
-       
-
-        //public static object OrderBy(Func<object, object> value)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        //public static object Select(Func<object, object> value)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        //public static object where(Func<object, bool> value)
-        //{
-        //    throw new NotImplementedException();
-        }
     }
-
+}

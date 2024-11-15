@@ -29,29 +29,19 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmNuevo));
-            this.lbl_Id = new System.Windows.Forms.Label();
             this.lbl_Titulo = new System.Windows.Forms.Label();
             this.lbl_Precio = new System.Windows.Forms.Label();
             this.lbl_Descripcion = new System.Windows.Forms.Label();
             this.lbl_Categoria = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.tbxTitulo = new System.Windows.Forms.TextBox();
+            this.tbxPrecio = new System.Windows.Forms.TextBox();
+            this.tbxDescripcion = new System.Windows.Forms.TextBox();
+            this.tbxCategoria = new System.Windows.Forms.TextBox();
             this.btn_Aceptar = new System.Windows.Forms.Button();
             this.btn_Cancelar = new System.Windows.Forms.Button();
+            this.tbxId = new System.Windows.Forms.TextBox();
+            this.lblId = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // lbl_Id
-            // 
-            this.lbl_Id.AutoSize = true;
-            this.lbl_Id.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_Id.Location = new System.Drawing.Point(31, 29);
-            this.lbl_Id.Name = "lbl_Id";
-            this.lbl_Id.Size = new System.Drawing.Size(24, 13);
-            this.lbl_Id.TabIndex = 0;
-            this.lbl_Id.Text = "ID:";
             // 
             // lbl_Titulo
             // 
@@ -93,40 +83,33 @@
             this.lbl_Categoria.TabIndex = 4;
             this.lbl_Categoria.Text = "Categoría:";
             // 
-            // textBox1
+            // tbxTitulo
             // 
-            this.textBox1.Location = new System.Drawing.Point(34, 45);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 5;
+            this.tbxTitulo.Location = new System.Drawing.Point(34, 105);
+            this.tbxTitulo.Name = "tbxTitulo";
+            this.tbxTitulo.Size = new System.Drawing.Size(100, 20);
+            this.tbxTitulo.TabIndex = 6;
             // 
-            // textBox2
+            // tbxPrecio
             // 
-            this.textBox2.Location = new System.Drawing.Point(34, 105);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 6;
+            this.tbxPrecio.Location = new System.Drawing.Point(34, 166);
+            this.tbxPrecio.Name = "tbxPrecio";
+            this.tbxPrecio.Size = new System.Drawing.Size(100, 20);
+            this.tbxPrecio.TabIndex = 7;
             // 
-            // textBox3
+            // tbxDescripcion
             // 
-            this.textBox3.Location = new System.Drawing.Point(34, 166);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 7;
+            this.tbxDescripcion.Location = new System.Drawing.Point(34, 236);
+            this.tbxDescripcion.Name = "tbxDescripcion";
+            this.tbxDescripcion.Size = new System.Drawing.Size(100, 20);
+            this.tbxDescripcion.TabIndex = 8;
             // 
-            // textBox4
+            // tbxCategoria
             // 
-            this.textBox4.Location = new System.Drawing.Point(34, 236);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
-            this.textBox4.TabIndex = 8;
-            // 
-            // textBox5
-            // 
-            this.textBox5.Location = new System.Drawing.Point(34, 306);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 20);
-            this.textBox5.TabIndex = 9;
+            this.tbxCategoria.Location = new System.Drawing.Point(34, 306);
+            this.tbxCategoria.Name = "tbxCategoria";
+            this.tbxCategoria.Size = new System.Drawing.Size(100, 20);
+            this.tbxCategoria.TabIndex = 9;
             // 
             // btn_Aceptar
             // 
@@ -156,43 +139,60 @@
             this.btn_Cancelar.UseVisualStyleBackColor = true;
             this.btn_Cancelar.Click += new System.EventHandler(this.btn_Cancelar_Click);
             // 
+            // tbxId
+            // 
+            this.tbxId.Location = new System.Drawing.Point(34, 58);
+            this.tbxId.Name = "tbxId";
+            this.tbxId.Size = new System.Drawing.Size(100, 20);
+            this.tbxId.TabIndex = 12;
+            // 
+            // lblId
+            // 
+            this.lblId.AutoSize = true;
+            this.lblId.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblId.Location = new System.Drawing.Point(31, 40);
+            this.lblId.Name = "lblId";
+            this.lblId.Size = new System.Drawing.Size(23, 15);
+            this.lblId.TabIndex = 13;
+            this.lblId.Text = "Id:";
+            // 
             // frmNuevo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(298, 434);
+            this.Controls.Add(this.lblId);
+            this.Controls.Add(this.tbxId);
             this.Controls.Add(this.btn_Cancelar);
             this.Controls.Add(this.btn_Aceptar);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.tbxCategoria);
+            this.Controls.Add(this.tbxDescripcion);
+            this.Controls.Add(this.tbxPrecio);
+            this.Controls.Add(this.tbxTitulo);
             this.Controls.Add(this.lbl_Categoria);
             this.Controls.Add(this.lbl_Descripcion);
             this.Controls.Add(this.lbl_Precio);
             this.Controls.Add(this.lbl_Titulo);
-            this.Controls.Add(this.lbl_Id);
             this.Name = "frmNuevo";
             this.Text = "Agregar producto";
+            this.Load += new System.EventHandler(this.frmNuevo_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label lbl_Id;
         private System.Windows.Forms.Label lbl_Titulo;
         private System.Windows.Forms.Label lbl_Precio;
         private System.Windows.Forms.Label lbl_Descripcion;
         private System.Windows.Forms.Label lbl_Categoria;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox tbxTitulo;
+        private System.Windows.Forms.TextBox tbxPrecio;
+        private System.Windows.Forms.TextBox tbxDescripcion;
+        private System.Windows.Forms.TextBox tbxCategoria;
         private System.Windows.Forms.Button btn_Aceptar;
         private System.Windows.Forms.Button btn_Cancelar;
+        private System.Windows.Forms.TextBox tbxId;
+        private System.Windows.Forms.Label lblId;
     }
 }

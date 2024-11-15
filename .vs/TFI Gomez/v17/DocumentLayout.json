@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\",
+  "WorkspaceRootPath": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|solutionrelative:vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68B703E0-D6F7-439D-B888-35390AEAE0E3}|Negocio\\Negocio.csproj|c:\\users\\franco\\desktop\\flip\\des\\ln\\tfi gomez\\negocio\\apiconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68B703E0-D6F7-439D-B888-35390AEAE0E3}|Negocio\\Negocio.csproj|c:\\users\\franco\\desktop\\tfi subir\\tfi gomez\\negocio\\apiconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68B703E0-D6F7-439D-B888-35390AEAE0E3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\apiconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68B703E0-D6F7-439D-B888-35390AEAE0E3}|Negocio\\Negocio.csproj|C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\negocio\\apiproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|solutionrelative:vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B703E0-D6F7-439D-B888-35390AEAE0E3}|Negocio\\Negocio.csproj|C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\negocio\\apiproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68B703E0-D6F7-439D-B888-35390AEAE0E3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\apiproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|solutionrelative:vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\vista\\frmnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|solutionrelative:vista\\frmnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\vista\\frmnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|solutionrelative:vista\\frmnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\vista\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|solutionrelative:vista\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\vista\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|solutionrelative:vista\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\vista\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63ADFAB8-B8F8-4BEC-8C36-02C4E5F98973}|Vista\\Vista.csproj|solutionrelative:vista\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +46,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApiProducts.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Negocio\\ApiProducts.cs",
-              "RelativeDocumentMoniker": "Negocio\\ApiProducts.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Negocio\\ApiProducts.cs",
-              "RelativeToolTip": "Negocio\\ApiProducts.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\App.config",
+              "RelativeDocumentMoniker": "Vista\\App.config",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\App.config",
+              "RelativeToolTip": "Vista\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T23:56:32.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmActualizar.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmActualizar.cs",
+              "RelativeDocumentMoniker": "Vista\\frmActualizar.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmActualizar.cs",
+              "RelativeToolTip": "Vista\\frmActualizar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T01:32:51.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T19:55:18.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmActualizar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmActualizar.cs",
+              "RelativeDocumentMoniker": "Vista\\frmActualizar.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Vista\\frmActualizar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\flip\\des\\LN\\TFI Gomez\\Vista\\frmActualizar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:47:48.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNuevo.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmNuevo.cs",
+              "RelativeDocumentMoniker": "Vista\\frmNuevo.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmNuevo.cs",
+              "RelativeToolTip": "Vista\\frmNuevo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAtwDkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:37:43.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNuevo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmNuevo.cs",
+              "RelativeDocumentMoniker": "Vista\\frmNuevo.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Vista\\frmNuevo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\flip\\des\\LN\\TFI Gomez\\Vista\\frmNuevo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:37:36.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "frmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Vista\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "Vista\\frmPrincipal.cs",
               "ToolTip": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Vista\\frmPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vista\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\flip\\des\\LN\\TFI Gomez\\Vista\\frmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T17:46:49.503Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-03T17:46:49.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Vista\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "Vista\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Vista\\frmPrincipal.cs",
-              "RelativeToolTip": "Vista\\frmPrincipal.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ApiProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Negocio\\ApiProducts.cs",
+              "RelativeDocumentMoniker": "Negocio\\ApiProducts.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Negocio\\ApiProducts.cs",
+              "RelativeToolTip": "Negocio\\ApiProducts.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T17:47:00.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T01:32:51.911Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Vista\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Vista\\frmPrincipal.cs",
+              "RelativeToolTip": "Vista\\frmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:47:00.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "APIConexion.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Negocio\\APIConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Negocio\\APIConexion.cs",
               "RelativeDocumentMoniker": "Negocio\\APIConexion.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\flip\\des\\LN\\TFI Gomez\\Negocio\\APIConexion.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\TFI subir\\TFI Gomez\\Negocio\\APIConexion.cs",
               "RelativeToolTip": "Negocio\\APIConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAANAAAAAAAAAAAAAQwNkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T17:33:07.004Z",
               "EditorCaption": ""
